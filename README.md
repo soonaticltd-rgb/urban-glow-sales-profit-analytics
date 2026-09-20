@@ -29,7 +29,7 @@ The client provided approximately six months of messy and unorganized transactio
 
 ### Client Requirements
 
-Screenshot 2026-09-19 170713.png
+https://github.com/soonaticltd-rgb/urban-glow-sales-profit-analytics/blob/main/Screenshot%202026-09-19%20170713.png
 
 ---
 
