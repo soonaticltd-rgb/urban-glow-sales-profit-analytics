@@ -113,7 +113,7 @@ The dashboard provides management with a consolidated view of:
 
 ### Dashboard Overview
 
-![UrbanGlow Sales & Profit Dashboard](images/dashboard-overview.png)
+https://github.com/soonaticltd-rgb/urban-glow-sales-profit-analytics/blob/main/Screenshot%202026-09-20%20111746.png
 
 ### Interactive Filters
 
