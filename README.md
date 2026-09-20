@@ -85,7 +85,7 @@ Multiple raw brand labels caused by inconsistent spacing were normalized so that
 
 ### Cleaned Dataset
 
-![UrbanGlow Cleaned Dataset](images/cleaned-data.png)
+https://github.com/soonaticltd-rgb/urban-glow-sales-profit-analytics/blob/main/Screenshot%202026-09-19%20170815.png
 
 ---
 
